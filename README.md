@@ -628,6 +628,10 @@
    
    *Chancharik Mitra, Brandon Huang, Trevor Darrell, Roei Herzig.* [[abs](https://arxiv.org/abs/2311.17076)], 2023.4
 
+10. **VLMT: Vision-Language Multimodal Transformer for Multimodal Multi-hop Question Answering**  
+   
+   *Qi Zhi Lim, Chin Poo Lee, Kian Ming Lim, Kalaiarasi Sonai Muthu Anbananthen.* [[abs](https://arxiv.org/abs/2504.08269)], 2025.4
+
 #### Tool-usage in LLMs for NLP
 
 1. **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs**
