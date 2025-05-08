@@ -681,6 +681,9 @@
    
    *Bin Lei, pei-Hung Lin, Chunhua Liao, Caiwen Ding.* [[abs](https://arxiv.org/abs/2308.08614)], 2023.8
 
+7. **Demystifying Chains, Trees, and Graphs of Thoughts**
+
+   *Maciej Besta, Florim Memedi, Zhenyu Zhang, Robert Gerstenberger, Nils Blach, Piotr Nyczyk, Marcin Copik, Grzegorz Kwaśniewski, Jürgen Müller, Lukas Gianinazzi, Ales Kubicek, Hubert Niewiadomski, Aidan O'Mahony, Onur Mutlu, Torsten Hoefler.* [[abs](https://arxiv.org/abs/2401.14295)], 2025.1
 
 #### Hallucination in LLMs for NLP
 
